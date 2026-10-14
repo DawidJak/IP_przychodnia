@@ -1,2 +1,2 @@
-# PSI_przychodnia
-numery Albumu: 180592, 179913
+# IP_przychodnia
+numery Albumu: 180592, 180589
