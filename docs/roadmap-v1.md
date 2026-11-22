@@ -14,9 +14,7 @@ Główną grupą docelową są administratorzy lokalnych przychodni, mogą oni u
 
 | F03 | System powinien pokazywać dostępne terminy wizyt | MVP |
 
-| F04 | System powinien pokazywać dostępne pomieszczenia we wskazanym terminie | MVP |
-
-| F05 | Systen musi umożliwić zmianę planu w trakcie dnia | MVP |
+| F04 | Systen musi umożliwić zmianę planu w trakcie dnia | MVP |
 
 
 | Widok | Potrzebne Dane | Funkcjonalność |
